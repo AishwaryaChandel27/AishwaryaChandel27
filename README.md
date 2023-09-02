@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Html5,Css3,Bootsrap,Java**
 
-- 📫 How to reach me **aishathakur742**
+- 📫 How to reach me **aishathakur742@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
