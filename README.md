@@ -9,7 +9,7 @@
 
 - 🤝 Goals **My immediate goal is to secure an entry-level position as a web developer or intern where I can apply my knowledge and learn from experienced professionals. I am excited about the opportunity to contribute to exciting projects and continue to grow in my career.**
 
-- 📫 How to reach me [aishathakur742@gmail.com](aishathakur742@gmail.com)
+- 📫 How to reach me [aishwaryachandel794@gmail.com](aishwaryachandel794@gmail.com)
 
 - 💬 Ask me about **Html5,Css3,Bootsrap,Java**
 
