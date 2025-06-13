@@ -1,5 +1,53 @@
-# 💫 About Me:
-👋 Hi, I'm Aishwarya!<br><br>Welcome to my GitHub profile! I'm a passionate developer, AI enthusiast, and innovator who loves solving real-world problems with creative tech solutions.<br><br>🔭 I’m currently working on<br><br>🌟 Transforming Healthcare with Multimodal AI: Building AI-driven systems for precision diagnostics and personalized treatments.<br>📊 Advanced Data Tables: Creating feature-rich, dynamic tables with sorting, filtering, and pagination using React and Tanstack Table.<br>👯 I’m looking to collaborate on<br><br>🤖 Projects that involve AI in healthcare or education technology.<br>🎨 Building visually stunning and interactive web applications.<br>🤝 I’m looking for help with<br><br>🔍 Diving deeper into multimodal AI and its applications.<br>🚀 Exploring optimization techniques for large-scale web applications.<br>🌱 I’m currently learning<br><br>📈 Advanced techniques in data visualization.<br>🤯 Leveraging Generative AI for intelligent solutions.<br>💬 Ask me about<br><br>💻 Frontend development with React, Next.js, and Tailwind CSS.<br>🛠️ AI tools and libraries like Hugging Face, PyTorch, and Generative AI.<br>✨ Creating seamless user experiences with a blend of design and functionality.<br>⚡ Fun fact<br>I combine my love for technology and creativity to craft unique solutions. Whether it’s designing a UI or building an AI model, I believe in making every project both functional and beautiful! 🎨💻<br><br>🌐 Connect with Me!<br>Let’s collaborate, share ideas, or just talk tech! Explore my repositories and star ⭐ your favorites if you like what you see. 😊
+# 💫 Aishwarya | Full Stack & AI Developer
+
+👋 **Hello, I'm Aishwarya!**  
+Welcome to my GitHub! I'm a **Full Stack Developer** and **AI Innovator** with a passion for crafting cutting-edge solutions that blend technology and creativity to solve real-world challenges. My expertise spans **web development**, **AI-driven systems**, and **data visualization**, with a focus on healthcare and education technology.
+
+---
+
+## 🚀 What I'm Working On
+- 🌟 **Healthcare AI Revolution**: Developing multimodal AI systems for precision diagnostics and personalized treatment plans, leveraging **PyTorch**, **TensorFlow**, and **Hugging Face**.  
+- 📊 **Dynamic Data Interfaces**: Building high-performance, interactive data tables with **React**, **Tanstack Table**, and **Tailwind CSS**, featuring advanced sorting, filtering, and pagination.  
+- 🛠️ **Scalable Web Apps**: Creating responsive, user-centric applications with **Next.js**, **Node.js**, and **MongoDB** for seamless performance.
+
+---
+
+## 🤝 Collaboration Opportunities
+- 🤖 **AI in Healthcare & EdTech**: Excited to work on projects that harness AI to transform diagnostics, patient care, or learning experiences.  
+- 🎨 **Interactive Web Solutions**: Interested in building visually stunning, high-performance web applications with modern frameworks.  
+
+---
+
+## 🔍 Seeking Expertise In
+- 🧠 **Multimodal AI**: Exploring advanced techniques for integrating vision, text, and structured data in AI models.  
+- ⚡ **Web Optimization**: Diving into performance optimization for large-scale web applications using **Vercel**, **Docker**, and **Webpack**.  
+
+---
+
+## 🌱 Currently Learning
+- 📈 **Advanced Data Visualization**: Mastering tools like **D3.js** and **Chart.js** for insightful, interactive dashboards.  
+- 🤯 **Generative AI**: Experimenting with **Stable Diffusion** and **GANs** for creative and intelligent solutions.  
+
+---
+
+## 💬 Ask Me About
+- 💻 **Frontend Excellence**: Building responsive, user-friendly interfaces with **React**, **Next.js**, and **Tailwind CSS**.  
+- 🛠️ **AI & ML**: Creating intelligent systems with **PyTorch**, **TensorFlow**, **scikit-learn**, and **Hugging Face**.  
+- ✨ **UX Design**: Blending aesthetics and functionality for seamless user experiences.  
+
+---
+
+## ⚡ Fun Fact
+I’m a tech artist at heart! Whether designing pixel-perfect UIs or training AI models, I strive to make every project **functional**, **beautiful**, and **impactful**. 🎨💻  
+
+---
+
+## 🌐 Connect With Me
+Let’s build something extraordinary together! Explore my repositories, star ⭐ your favorites, and reach out for collaboration or tech chats!  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aishwaryachandel/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://portfolio-one-alpha-13.vercel.app/)  
+
+
 
 
 # 💻 Tech Stack:
