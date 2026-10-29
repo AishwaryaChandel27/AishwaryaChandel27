@@ -137,7 +137,7 @@ The snapshot includes the dates shown in the image. GitHub-visible activity may 
 <summary><strong>Bonus: contribution snake</strong></summary>
 
 <!-- SNAKE:START -->
-The optional snake workflow generates its animation from GitHub activity and adds it here after its first successful run. [Workflow source](./.github/workflows/contribution-snake.yml).
+<img src="./assets/contribution-snake.svg" width="100%" alt="Animated snake traversing actual GitHub contribution activity; decorative supplement to the contribution city" />
 <!-- SNAKE:END -->
 
 The city remains the main activity visualization. Expand this section only when you want the extra animation.
