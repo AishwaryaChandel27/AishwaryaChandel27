@@ -1,70 +1,88 @@
-# 💫 Aishwarya | Full Stack & AI Developer
+<div align="center">
+  <img src="./assets/hero.svg" alt="Aishwarya — Python, AI Automation and Full Stack developer" width="100%" />
+  <br /><br />
+  <a href="https://github.com/AishwaryaChandel27"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-101827?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/aishwaryachandel/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://portfolio-one-alpha-13.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Explore-a855f7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:aishwaryachandel27@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Say%20Hello-0891b2?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</div>
 
-👋 **Hello, I'm Aishwarya!**  
-Welcome to my GitHub! I'm a **Full Stack Developer** and **AI Innovator** passionate about crafting cutting-edge solutions that blend technology and creativity to solve real-world challenges.  
-My expertise spans **web development**, **AI-driven systems**, and **data visualization**, with a focus on **healthcare** and **education technology**.
+<br />
 
----
+<div align="center"><img src="./assets/developer-terminal.svg" alt="Developer terminal" width="95%" /></div>
 
-## 🚀 What I'm Working On
-- 🌟 **Healthcare AI Revolution**: Developing multimodal AI systems for precision diagnostics and personalized treatment plans using **PyTorch**, **TensorFlow**, and **Hugging Face**.  
-- 📊 **Dynamic Data Interfaces**: Building interactive, high-performance data tables with **React**, **Tanstack Table**, and **Tailwind CSS** (sorting, filtering, pagination).  
-- 🛠️ **Scalable Web Apps**: Creating responsive, user-centric apps with **Next.js**, **Node.js**, and **MongoDB**.
+### ✨ What I build
 
----
+I build **practical AI-powered applications, Python automations, and thoughtful web interfaces**. My work connects backend systems, intelligent retrieval, data validation, and user-centered design. I enjoy turning ideas into usable products—from wellness tools to cultural travel experiences.
 
-## 🤝 Collaboration Opportunities
-- 🤖 **AI in Healthcare & EdTech**: Projects harnessing AI to transform diagnostics, patient care, or learning experiences.  
-- 🎨 **Interactive Web Solutions**: High-performance, visually stunning web apps with modern frameworks.
-
----
-
-## 🔍 Seeking Expertise In
-- 🧠 **Multimodal AI**: Integrating vision, text, and structured data in AI models.  
-- ⚡ **Web Optimization**: Performance tuning for large-scale apps with **Vercel**, **Docker**, **Webpack**.
+- **AI + automation:** Retrieval-augmented generation, Python services, intelligent workflows.
+- **Full stack:** React, TypeScript, JavaScript, Flask, REST APIs.
+- **Data quality:** SQL, ETL validation, source-to-target reconciliation.
+- **Open to:** Selected freelance projects, open-source collaborations, and junior engineering opportunities.
 
 ---
 
-## 🌱 Currently Learning
-- 📈 **Advanced Data Visualization**: Mastering **D3.js** and **Chart.js** for interactive dashboards.  
-- 🤯 **Generative AI**: Experimenting with **Stable Diffusion** and **GANs**.
+## 🚀 Featured builds
+
+| Project | Why it matters | Explore |
+|:--|:--|:--|
+| 🌿 **Vihaara** | AI-powered mental wellness and healthcare application; a product-focused exploration of supportive digital experiences. | [View repository](https://github.com/AishwaryaChandel27/Vihaara--AI-powered-mental-wellness-and-healthcare-app) |
+| 🧠 **RAG-powered Assistant** | Document-aware assistant exploring retrieval and grounded question answering. | [View repository](https://github.com/AishwaryaChandel27/RAG-powered-assistant) |
+| ✈️ **TasteTravel** | Personalized cultural travel planner bringing discovery and technology together. | [View repository](https://github.com/AishwaryaChandel27/TasteTravel---Personalized-Cultural-Travel-Planner) |
+| ⚡ **AURA** | Experimentation with intelligent application concepts and AI workflows. | [View repository](https://github.com/AishwaryaChandel27/AURA) |
+| 🎨 **Engineering Portfolio** | An interactive showcase of frontend craft and software projects. | [View repository](https://github.com/AishwaryaChandel27/aishwarya-engineering-portfolio) |
+| 🏹 **Archery Precision Posture Evaluation** | A computer-vision-oriented project for movement and posture evaluation. | [View repository](https://github.com/AishwaryaChandel27/Archery-Precision-Posture-Evaluation) |
+
+> Explore individual repositories for implementation details and current project status. Not every project is a deployed production application.
 
 ---
 
-## 💬 Ask Me About
-- 💻 **Frontend Excellence**: Responsive UIs with **React**, **Next.js**, **Tailwind CSS**.  
-- 🛠️ **AI & ML**: Building intelligent systems with **PyTorch**, **TensorFlow**, **scikit-learn**, **Hugging Face**.  
-- ✨ **UX Design**: Functional and aesthetic digital experiences.
+## 🧩 My engineering toolkit
+
+**AI & Automation**  
+![Python](https://img.shields.io/badge/Python-101827?style=flat-square&logo=python) ![Generative AI](https://img.shields.io/badge/Generative_AI-a855f7?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-0891b2?style=flat-square)
+
+**Frontend & Backend**  
+![React](https://img.shields.io/badge/React-101827?style=flat-square&logo=react) ![TypeScript](https://img.shields.io/badge/TypeScript-101827?style=flat-square&logo=typescript) ![JavaScript](https://img.shields.io/badge/JavaScript-101827?style=flat-square&logo=javascript) ![Flask](https://img.shields.io/badge/Flask-101827?style=flat-square&logo=flask) ![REST](https://img.shields.io/badge/REST_APIs-0891b2?style=flat-square)
+
+**Data & Tools**  
+![SQL](https://img.shields.io/badge/SQL-101827?style=flat-square) ![ETL Testing](https://img.shields.io/badge/ETL_Testing-101827?style=flat-square) ![IBM DataStage](https://img.shields.io/badge/IBM_DataStage-101827?style=flat-square) ![Git](https://img.shields.io/badge/Git-101827?style=flat-square&logo=git) ![GitHub](https://img.shields.io/badge/GitHub-101827?style=flat-square&logo=github)
 
 ---
 
-## ⚡ Fun Fact
-I’m a tech artist at heart! Whether designing pixel-perfect UIs or training AI models, I make every project **functional**, **beautiful**, and **impactful**. 🎨💻  
+## 🌃 Contribution City
+
+*An isometric skyline generated from actual GitHub contribution-calendar activity. Taller buildings represent more contributions on a given day.*
+
+<div align="center">
+  <img src="./assets/contribution-city.svg" width="100%" alt="GitHub contributions visualized as an isometric city" />
+</div>
+
+<sub>The city is regenerated by GitHub Actions once per day. It shows calendar contributions; it is not a measurement of code quality or impact. GitHub private-contribution visibility depends on your account settings and API permissions.</sub>
 
 ---
 
-## 💻 Tech Stack
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=mui&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+## 📊 Activity signals
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AishwaryaChandel27&layout=compact&hide_border=true&bg_color=080b16&title_color=22d3ee&text_color=e5e7eb" height="160" alt="Top public repository languages" />
+</div>
 
 ---
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=AishwaryaChandel27&theme=radical&hide_border=true&include_all_commits=false&count_private=false)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=AishwaryaChandel27&theme=radical&hide_border=true)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AishwaryaChandel27&theme=radical&hide_border=true&layout=compact)
+## 🛠️ Where I've applied these skills
+
+- **Data / ETL Quality — Bitwise:** SQL validations, data reconciliation, pipeline quality checks.
+- **Python Backend — AdventX:** Backend functionality, REST APIs, debugging.
+- **Frontend — Capital Rush:** Contributed to more than 15 React/TypeScript pages.
+- **Hackathon:** Third prize at a national-level hackathon in 2024.
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+## 🤝 Let's build something useful
 
----
+Have a well-scoped Python automation, API integration, React interface, or an AI prototype to explore? I'd love to hear about it.
 
-[![](https://visitcount.itsvg.in/api?id=AishwaryaChandel27&icon=2&color=5)](https://visitcount.itsvg.in)
+**[Email me](mailto:aishwaryachandel27@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/aishwaryachandel/)** · **[Portfolio](https://portfolio-one-alpha-13.vercel.app/)**
 
----
-
-## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aishwaryachandel/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://portfolio-one-alpha-13.vercel.app/)  
-
+<div align="center"><sub>Made with curiosity, careful engineering, and a little neon. ✦</sub></div>
