@@ -1,0 +1,138 @@
+{
+  "as_of": "2026-10-29",
+  "scope": "Owned public non-fork repositories; primary language per repository",
+  "repositories": [
+    {
+      "name": "AI-Travel-Planner",
+      "url": "https://github.com/AishwaryaChandel27/AI-Travel-Planner",
+      "language": "Python",
+      "stars": 0
+    },
+    {
+      "name": "aishwarya-engineering-portfolio",
+      "url": "https://github.com/AishwaryaChandel27/aishwarya-engineering-portfolio",
+      "language": "JavaScript",
+      "stars": 0
+    },
+    {
+      "name": "AishwaryaChandel27",
+      "url": "https://github.com/AishwaryaChandel27/AishwaryaChandel27",
+      "language": "Python",
+      "stars": 0
+    },
+    {
+      "name": "Archery-Precision-Posture-Evaluation",
+      "url": "https://github.com/AishwaryaChandel27/Archery-Precision-Posture-Evaluation",
+      "language": "Python",
+      "stars": 2
+    },
+    {
+      "name": "AURA",
+      "url": "https://github.com/AishwaryaChandel27/AURA",
+      "language": "Python",
+      "stars": 0
+    },
+    {
+      "name": "CityGuardAlert",
+      "url": "https://github.com/AishwaryaChandel27/CityGuardAlert",
+      "language": "HTML",
+      "stars": 0
+    },
+    {
+      "name": "CloudBurst",
+      "url": "https://github.com/AishwaryaChandel27/CloudBurst",
+      "language": "Jupyter Notebook",
+      "stars": 0
+    },
+    {
+      "name": "desktop-assistant",
+      "url": "https://github.com/AishwaryaChandel27/desktop-assistant",
+      "language": "Python",
+      "stars": 0
+    },
+    {
+      "name": "Driver-Drowsiness-Detection-System",
+      "url": "https://github.com/AishwaryaChandel27/Driver-Drowsiness-Detection-System",
+      "language": "Python",
+      "stars": 0
+    },
+    {
+      "name": "Expanding-Cards",
+      "url": "https://github.com/AishwaryaChandel27/Expanding-Cards",
+      "language": "CSS",
+      "stars": 0
+    },
+    {
+      "name": "Expense-Split-Tracker",
+      "url": "https://github.com/AishwaryaChandel27/Expense-Split-Tracker",
+      "language": "Python",
+      "stars": 0
+    },
+    {
+      "name": "Gem_Ai",
+      "url": "https://github.com/AishwaryaChandel27/Gem_Ai",
+      "language": "TypeScript",
+      "stars": 0
+    },
+    {
+      "name": "GestureSense",
+      "url": "https://github.com/AishwaryaChandel27/GestureSense",
+      "language": "Python",
+      "stars": 0
+    },
+    {
+      "name": "Metaverse",
+      "url": "https://github.com/AishwaryaChandel27/Metaverse",
+      "language": "JavaScript",
+      "stars": 0
+    },
+    {
+      "name": "Modern-React-Login-System-with-Firebase-Auth-Firestore-Light-Dark-Mode-",
+      "url": "https://github.com/AishwaryaChandel27/Modern-React-Login-System-with-Firebase-Auth-Firestore-Light-Dark-Mode-",
+      "language": "JavaScript",
+      "stars": 0
+    },
+    {
+      "name": "OCR",
+      "url": "https://github.com/AishwaryaChandel27/OCR",
+      "language": "Python",
+      "stars": 0
+    },
+    {
+      "name": "openmic-intake-agent-",
+      "url": "https://github.com/AishwaryaChandel27/openmic-intake-agent-",
+      "language": "TypeScript",
+      "stars": 0
+    },
+    {
+      "name": "RAG-powered-assistant",
+      "url": "https://github.com/AishwaryaChandel27/RAG-powered-assistant",
+      "language": "Python",
+      "stars": 0
+    },
+    {
+      "name": "Saasquatch-Leads",
+      "url": "https://github.com/AishwaryaChandel27/Saasquatch-Leads",
+      "language": "TypeScript",
+      "stars": 0
+    },
+    {
+      "name": "TasteTravel---Personalized-Cultural-Travel-Planner",
+      "url": "https://github.com/AishwaryaChandel27/TasteTravel---Personalized-Cultural-Travel-Planner",
+      "language": "TypeScript",
+      "stars": 0
+    },
+    {
+      "name": "Vihaara--AI-powered-mental-wellness-and-healthcare-app",
+      "url": "https://github.com/AishwaryaChandel27/Vihaara--AI-powered-mental-wellness-and-healthcare-app",
+      "language": "TypeScript",
+      "stars": 2
+    },
+    {
+      "name": "Weather-Agent",
+      "url": "https://github.com/AishwaryaChandel27/Weather-Agent",
+      "language": "TypeScript",
+      "stars": 0
+    }
+  ]
+}

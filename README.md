@@ -1,88 +1,181 @@
 <div align="center">
-  <img src="./assets/hero.svg" alt="Aishwarya — Python, AI Automation and Full Stack developer" width="100%" />
-  <br /><br />
-  <a href="https://github.com/AishwaryaChandel27"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-101827?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/aishwaryachandel/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://portfolio-one-alpha-13.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Explore-a855f7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="mailto:aishwaryachandel27@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Say%20Hello-0891b2?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="./assets/hero.svg" width="100%" alt="Aishwarya | Full Stack & AI Developer — intelligent applications, thoughtful interfaces, India, open to collaboration" />
 </div>
 
+<div align="center">
+  <a href="https://portfolio-one-alpha-13.vercel.app/">Portfolio</a> &nbsp; / &nbsp;
+  <a href="https://www.linkedin.com/in/aishwaryachandel/">LinkedIn</a> &nbsp; / &nbsp;
+  <a href="mailto:aishwaryachandel27@gmail.com">Email me</a> &nbsp; / &nbsp;
+  <a href="https://github.com/AishwaryaChandel27?tab=repositories">Explore my code</a>
+</div>
+
+# Useful intelligence. Thoughtfully built.
+
+I'm **Aishwarya**, a developer in India working across **Python, AI applications, full stack development, and data quality**. I turn ideas into practical tools: a calmer wellness companion, a research assistant, a cultural travel planner, and interfaces that make complex systems easier to use.
+
+**Open to junior engineering opportunities, focused freelance projects, and open-source collaboration.**
+
+<div align="center">
+  <img src="./assets/typing.svg" width="760" alt="Python and AI automation · Full stack development · RAG and intelligent systems · Data engineering and quality · Technology with purpose" />
+</div>
+
+[Featured builds](#01--selected-builds) · [Technical ecosystem](#02--technical-ecosystem) · [Contribution city](#03--contribution-metropolis) · [Collaborate](#06--lets-build-something-useful)
+
+<details>
+<summary><strong>Boot developer.os</strong> — how I approach the work</summary>
 <br />
+<img src="./assets/developer-terminal.svg" width="100%" alt="Developer OS: building useful intelligent applications; creative mode enabled, learning active, collaboration open" />
 
-<div align="center"><img src="./assets/developer-terminal.svg" alt="Developer terminal" width="95%" /></div>
+**My approach:** understand the problem, build a usable path through it, validate the details, and be clear about what the system can and cannot do.
 
-### ✨ What I build
+</details>
 
-I build **practical AI-powered applications, Python automations, and thoughtful web interfaces**. My work connects backend systems, intelligent retrieval, data validation, and user-centered design. I enjoy turning ideas into usable products—from wellness tools to cultural travel experiences.
+## 01 / Selected builds
 
-- **AI + automation:** Retrieval-augmented generation, Python services, intelligent workflows.
-- **Full stack:** React, TypeScript, JavaScript, Flask, REST APIs.
-- **Data quality:** SQL, ETL validation, source-to-target reconciliation.
-- **Open to:** Selected freelance projects, open-source collaborations, and junior engineering opportunities.
+Five projects, five engineering questions. **Prototype** means an implemented exploration whose production readiness has not been established. The artwork below is original concept illustration, not product screenshots.
 
----
+### Vihaara · Flagship / Prototype
 
-## 🚀 Featured builds
+<a href="https://github.com/AishwaryaChandel27/Vihaara--AI-powered-mental-wellness-and-healthcare-app"><img src="./assets/project-cards/vihaara.svg" width="560" alt="Vihaara — a calmer space to reflect. React, TypeScript and WebLLM. Explore the repository." /></a>
 
-| Project | Why it matters | Explore |
-|:--|:--|:--|
-| 🌿 **Vihaara** | AI-powered mental wellness and healthcare application; a product-focused exploration of supportive digital experiences. | [View repository](https://github.com/AishwaryaChandel27/Vihaara--AI-powered-mental-wellness-and-healthcare-app) |
-| 🧠 **RAG-powered Assistant** | Document-aware assistant exploring retrieval and grounded question answering. | [View repository](https://github.com/AishwaryaChandel27/RAG-powered-assistant) |
-| ✈️ **TasteTravel** | Personalized cultural travel planner bringing discovery and technology together. | [View repository](https://github.com/AishwaryaChandel27/TasteTravel---Personalized-Cultural-Travel-Planner) |
-| ⚡ **AURA** | Experimentation with intelligent application concepts and AI workflows. | [View repository](https://github.com/AishwaryaChandel27/AURA) |
-| 🎨 **Engineering Portfolio** | An interactive showcase of frontend craft and software projects. | [View repository](https://github.com/AishwaryaChandel27/aishwarya-engineering-portfolio) |
-| 🏹 **Archery Precision Posture Evaluation** | A computer-vision-oriented project for movement and posture evaluation. | [View repository](https://github.com/AishwaryaChandel27/Archery-Precision-Posture-Evaluation) |
+**How can an AI experience feel calm and keep inference on the user's device?**
 
-> Explore individual repositories for implementation details and current project status. Not every project is a deployed production application.
+A local-first wellness companion with journaling, mood check-ins, breathing exercises, and synthesized ambient sound. Optional WebLLM inference runs in a Web Worker; the prepared offline guide remains available when the model cannot run.
+
+**Built with:** React · TypeScript · Vite · Tailwind · WebLLM · Web Audio<br />
+**Engineering focus:** model loading, cancellation, device compatibility, and browser data recovery.<br />
+**Boundary:** wellbeing prototype; not clinically validated. On-device AI needs WebGPU and an initial model download.
+
+[Explore source →](https://github.com/AishwaryaChandel27/Vihaara--AI-powered-mental-wellness-and-healthcare-app) · [Architecture & validation →](https://github.com/AishwaryaChandel27/Vihaara--AI-powered-mental-wellness-and-healthcare-app/blob/main/docs/VALIDATION.md)
 
 ---
 
-## 🧩 My engineering toolkit
+### AURA · Research / Prototype
 
-**AI & Automation**  
-![Python](https://img.shields.io/badge/Python-101827?style=flat-square&logo=python) ![Generative AI](https://img.shields.io/badge/Generative_AI-a855f7?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-0891b2?style=flat-square)
+<a href="https://github.com/AishwaryaChandel27/AURA"><img src="./assets/project-cards/aura.svg" width="560" alt="AURA — from papers to research questions. Python, Flask and SQLAlchemy." /></a>
 
-**Frontend & Backend**  
-![React](https://img.shields.io/badge/React-101827?style=flat-square&logo=react) ![TypeScript](https://img.shields.io/badge/TypeScript-101827?style=flat-square&logo=typescript) ![JavaScript](https://img.shields.io/badge/JavaScript-101827?style=flat-square&logo=javascript) ![Flask](https://img.shields.io/badge/Flask-101827?style=flat-square&logo=flask) ![REST](https://img.shields.io/badge/REST_APIs-0891b2?style=flat-square)
+**How do you coordinate retrieval, summarization, and hypothesis generation?**
 
-**Data & Tools**  
-![SQL](https://img.shields.io/badge/SQL-101827?style=flat-square) ![ETL Testing](https://img.shields.io/badge/ETL_Testing-101827?style=flat-square) ![IBM DataStage](https://img.shields.io/badge/IBM_DataStage-101827?style=flat-square) ![Git](https://img.shields.io/badge/Git-101827?style=flat-square&logo=git) ![GitHub](https://img.shields.io/badge/GitHub-101827?style=flat-square&logo=github)
+A research application with separate agent modules for academic paper retrieval, summaries, hypotheses, and experiment design. The controller coordinates services for arXiv, Semantic Scholar, and model-backed responses.
 
----
+**Built with:** Python · Flask · SQLAlchemy · OpenAI integration<br />
+**Engineering focus:** separating orchestration, provider integrations, and research workflows.<br />
+**Boundary:** experimental research assistance; generated hypotheses need human evaluation. Some features require provider credentials.
 
-## 🌃 Contribution City
-
-*An isometric skyline generated from actual GitHub contribution-calendar activity. Taller buildings represent more contributions on a given day.*
-
-<div align="center">
-  <img src="./assets/contribution-city.svg" width="100%" alt="GitHub contributions visualized as an isometric city" />
-</div>
-
-<sub>The city is regenerated by GitHub Actions once per day. It shows calendar contributions; it is not a measurement of code quality or impact. GitHub private-contribution visibility depends on your account settings and API permissions.</sub>
+[Explore source →](https://github.com/AishwaryaChandel27/AURA) · [Agent controller →](https://github.com/AishwaryaChandel27/AURA/blob/main/agents/agent_controller.py)
 
 ---
 
-## 📊 Activity signals
+### RAG-powered Assistant · Retrieval / Prototype
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AishwaryaChandel27&layout=compact&hide_border=true&bg_color=080b16&title_color=22d3ee&text_color=e5e7eb" height="160" alt="Top public repository languages" />
-</div>
+<a href="https://github.com/AishwaryaChandel27/RAG-powered-assistant"><img src="./assets/project-cards/rag.svg" width="560" alt="RAG Assistant — make research easier to find. Python, Flask and keyword search." /></a>
+
+**How do you make a publication collection searchable and its answers inspectable?**
+
+A publication search application that retrieves documents and formats answers from the matching source material. Its active pipeline uses `SimpleSearchEngine`; a separate FAISS/OpenAI vector-store implementation explores embedding-based retrieval.
+
+**Built with:** Python · Flask · SQLAlchemy · keyword retrieval<br />
+**Engineering focus:** document preparation, ranked retrieval, source metadata, and query history.<br />
+**Boundary:** the current answer path formats retrieved text; it does not generate answers with an LLM. The vector module is not the active default pipeline.
+
+[Explore source →](https://github.com/AishwaryaChandel27/RAG-powered-assistant) · [Active pipeline →](https://github.com/AishwaryaChandel27/RAG-powered-assistant/blob/main/rag_pipeline.py)
 
 ---
 
-## 🛠️ Where I've applied these skills
+### TasteTravel · Discovery / Prototype
 
-- **Data / ETL Quality — Bitwise:** SQL validations, data reconciliation, pipeline quality checks.
-- **Python Backend — AdventX:** Backend functionality, REST APIs, debugging.
-- **Frontend — Capital Rush:** Contributed to more than 15 React/TypeScript pages.
-- **Hackathon:** Third prize at a national-level hackathon in 2024.
+<a href="https://github.com/AishwaryaChandel27/TasteTravel---Personalized-Cultural-Travel-Planner"><img src="./assets/project-cards/travel.svg" width="560" alt="TasteTravel — culture shaped around curiosity. React, TypeScript and Express." /></a>
+
+**How do personal preferences become a useful cultural travel plan?**
+
+A travel-planning interface with cultural preferences, destination exploration, itinerary building, and AI-provider integrations. A unified service attempts an alternative provider when the primary provider fails.
+
+**Built with:** React · TypeScript · Express · Tailwind · TanStack Query<br />
+**Engineering focus:** connecting preference-driven interfaces to a provider fallback service.<br />
+**Boundary:** AI features depend on configured third-party services; live recommendation accuracy and production readiness are not established.
+
+[Explore source →](https://github.com/AishwaryaChandel27/TasteTravel---Personalized-Cultural-Travel-Planner) · [Provider orchestration →](https://github.com/AishwaryaChandel27/TasteTravel---Personalized-Cultural-Travel-Planner/blob/main/server/services/ai-service.ts)
 
 ---
 
-## 🤝 Let's build something useful
+### Engineering Portfolio · Frontend / Active
 
-Have a well-scoped Python automation, API integration, React interface, or an AI prototype to explore? I'd love to hear about it.
+<a href="https://github.com/AishwaryaChandel27/aishwarya-engineering-portfolio"><img src="./assets/project-cards/portfolio.svg" width="560" alt="Engineering Portfolio — a playful home for serious work. JavaScript, HTML and CSS." /></a>
 
-**[Email me](mailto:aishwaryachandel27@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/aishwaryachandel/)** · **[Portfolio](https://portfolio-one-alpha-13.vercel.app/)**
+**How can a portfolio be playful, accessible, and simple to deploy?**
 
-<div align="center"><sub>Made with curiosity, careful engineering, and a little neon. ✦</sub></div>
+A static portfolio with original bot mascots, project filters, case-study dialogs, and interactive concept demonstrations. Motion controls and reduced-motion support make animation optional.
+
+**Built with:** JavaScript · HTML · CSS · SVG · Node.js build validation<br />
+**Engineering focus:** expressive interfaces without a framework dependency, plus checks for deployment paths and assets.<br />
+**Boundary:** sample business demos are explicitly fictional; the contact form prepares an email draft. The linked public portfolio in the header is a separate, verified older deployment.
+
+[Explore source →](https://github.com/AishwaryaChandel27/aishwarya-engineering-portfolio)
+
+## 02 / Technical ecosystem
+
+| Area | Technologies and practices | Where the evidence comes from |
+| :--- | :--- | :--- |
+| **AI & intelligent systems** | Python automation, retrieval pipelines, WebLLM, model-provider integrations | Personal projects; RAG experiments distinguish keyword and vector paths |
+| **Frontend engineering** | React, TypeScript, JavaScript, HTML, CSS, Tailwind | Vihaara, TasteTravel, portfolio; frontend internship work |
+| **Backend & integrations** | Python, Flask, Express, REST APIs, SQLAlchemy; Postman | Python backend experience and application repositories |
+| **Data engineering & quality** | SQL, IBM DataStage, ETL testing, data validation, source-to-target reconciliation | Data / ETL work at Bitwise |
+| **Tools & deployment** | Git, GitHub, Vite, Vercel configuration | Project source, build scripts, and deployment configuration |
+| **Continuing learning** | Snowflake coursework; deeper data engineering and retrieval evaluation | Learning focus, not a claim of production expertise |
+
+## 03 / Contribution metropolis
+
+<img src="./assets/contribution-city.svg" width="100%" alt="Actual GitHub-visible contribution history as an isometric city. Each date is a block; inactive dates remain empty platforms. Taller buildings mean higher daily counts." />
+
+**One day. One block. Real activity.** Building height uses a logarithmic scale so unusually busy days do not obscure the rest of the calendar. Roof colors show count bands; the busiest dates receive a tower beacon.
+
+The snapshot includes the dates shown in the image. GitHub-visible activity may include anonymized private contributions when enabled; it is not a public-commit count or a measure of engineering quality. Daily refreshes preserve the last successful result when GitHub is unavailable.
+
+[Inspect the source data](./data/contributions.json) · [Read the generator](./scripts/generate_city.py) · [Automation & setup](./docs/SETUP.md)
+
+<details>
+<summary><strong>Bonus: contribution snake</strong></summary>
+
+<!-- SNAKE:START -->
+<img src="./assets/contribution-snake.svg" width="100%" alt="Animated snake traversing actual GitHub contribution activity; decorative supplement to the contribution city" />
+<!-- SNAKE:END -->
+
+The city remains the main activity visualization. Expand this section only when you want the extra animation.
+
+</details>
+
+## 04 / Engineering signals
+
+<img src="./assets/activity-dashboard.svg" width="100%" alt="Dated dashboard of owned public non-fork repository counts, stars, longest observed contribution streak, busiest day and primary repository languages." />
+
+[Inspect the repository snapshot](./data/repositories.json) · [GitHub activity & achievements](https://github.com/AishwaryaChandel27?tab=overview)
+
+The streak is measured **within the displayed calendar**, not across the account's lifetime. Language shares count each repository's primary language; they do not measure proficiency. GitHub's native profile is the source for achievements; no unofficial trophy service is used.
+
+## 05 / Experience, curiosity, and craft
+
+<img src="./assets/journey.svg" width="100%" alt="Experience threads: AdventX Python backend and APIs; Capital Rush frontend work across 15+ React and TypeScript pages; Bitwise ETL validation and reconciliation; third prize at a 2024 national-level hackathon." />
+
+- **Bitwise — Data / ETL quality:** SQL validation, reconciliation, and pipeline data checks.
+- **AdventX — Python backend:** backend functionality, REST APIs, and debugging.
+- **Capital Rush — Frontend:** contributed to more than 15 React/TypeScript pages.
+- **2024 — National-level hackathon:** third prize.
+
+These are experience threads, not a dated employment sequence. Dates are included only where confirmed.
+
+**Beyond the code:** I enjoy creative application design, meaningful AI systems, and the small interface decisions that help people feel comfortable using technology. My best project ideas begin with a real problem and a question worth exploring.
+
+## 06 / Let's build something useful
+
+**For founders and freelance clients:** Python automation, API integration, React interfaces, and scoped AI prototypes.<br />
+**For engineering teams:** junior opportunities across Python, full stack development, data quality, and applied AI.<br />
+**For open-source maintainers:** practical issues where careful implementation and documentation can help.
+
+Send me the problem, the expected outcome, and your timeline.
+
+**[aishwaryachandel27@gmail.com](mailto:aishwaryachandel27@gmail.com)**<br />
+[LinkedIn](https://www.linkedin.com/in/aishwaryachandel/) · [Portfolio](https://portfolio-one-alpha-13.vercel.app/) · [GitHub](https://github.com/AishwaryaChandel27)
+
+---
+
+<sub>Original SVG identity · Actual activity data · Built to stay maintainable. [How this profile works](./docs/SETUP.md)</sub>
